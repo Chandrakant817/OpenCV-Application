@@ -9,6 +9,7 @@ list_of_Files = [
     "Real Time Face and Eye Detection.py",
     "Pedestrain Detection using OpenCV.py",
     "Car Detection.py",
+    "Face Detection from Image.py"
 ]
 
 for filepath in list_of_Files:
