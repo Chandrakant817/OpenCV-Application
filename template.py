@@ -3,13 +3,13 @@ from pathlib import Path
 
 
 list_of_Files = [
+    #f"project_name/demo.py",
     f"Real Time Face Detection.py",
-    "Real Time Image Segmentation and Object Detection from Video using PixelLib.py",
     "Face and Detection from Image.py",
     "Real Time Face and Eye Detection.py",
     "Pedestrain Detection using OpenCV.py",
     "Car Detection.py",
-    "Face Detection from Image.py"
+    "Face Detection from Image.py",
 ]
 
 for filepath in list_of_Files:
