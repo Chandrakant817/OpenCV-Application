@@ -2,6 +2,10 @@
 
 Computer Vision is a field of Artificial Intelligence (AI) that enables computers to interpret and understand the visual world. Using digital images from cameras, videos, and deep learning models, machines can accurately identify and classify objects — and then react to what they “see”.
 
+<p align="center">
+  <img src="https://github.com/Chandrakant817/OpenCV-Application/assets/69152112/10ed6361-ce2d-4319-bbc6-a76e42532a18" alt="Image description">
+</p>
+
 ### Key Concepts
 Image Processing: Techniques for enhancing and transforming images, such as filtering, edge detection, and noise reduction.
 Object Detection: Identifying and locating objects within an image. Popular models include YOLO (You Only Look Once) and SSD (Single Shot MultiBox Detector).
